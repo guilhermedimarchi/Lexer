@@ -1,0 +1,10 @@
+int a;
+int b;
+
+a = 3;
+b = a;
+
+while ((a > 1) and (b <= 4)),
+    a = a + 1
+    b = b - 2
+.
